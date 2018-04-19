@@ -8,7 +8,6 @@
     </head>
     <body>
         
-        <!--from show-->
         <% 
             Connection connect = null;
             ResultSet rec = null;
